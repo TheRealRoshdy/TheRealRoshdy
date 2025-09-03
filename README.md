@@ -35,7 +35,7 @@
 ### 🏥 [Clinic managment system](#)  
 - patient record and time slot booking system    
 
-### 🦉 [Elevvo internship projects](#)    
+### 🦉 [Elevvo internship projects](https://github.com/TheRealRoshdy/Elevvo-Internship-projects/tree/main)    
 - student score prediction, loan aprove prediction, and traffic sign recognition  
 
 ---
