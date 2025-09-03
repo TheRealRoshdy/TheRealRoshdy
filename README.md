@@ -37,12 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRealRoshdy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealRoshdy&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-roshdy2001/)  
 - [Email](mailto:roshdy13122001@gmail.com)  
