@@ -26,11 +26,17 @@
 ### 🚢 [Sea-eyes: Smart Collision Avoidance system for sea vessels](https://github.com/TheRealRoshdy/Sea-eyes)  
 - Affordable Real-Time obstical detection for sea vessels  
 
-### 📷 YOLO Object Detection with Live Streaming
-- Built a Flask server to stream live camera feed with **YOLO detections** over LAN.  
+### ⏰ [Real Time Clock system](#)  
+- Embedded Clock system with alarm, stopwatch, countdown    
 
-### 📡 IoT Sensor Network with Firebase
-- Connected multiple sensors (GPS, sonar, ultrasonic) to Firebase and visualized data on a **Flutter mobile app**.  
+### 📚 [Student adding system](#)  
+- Student data entery system  
+
+### 🏥 [Clinic managment system](#)  
+- patient record and time slot booking system    
+
+### 🦉 [Elevvo internship projects](#)    
+- student score prediction, loan aprove prediction, and traffic sign recognition  
 
 ---
 
