@@ -29,7 +29,7 @@
 ### ⏰ [Real Time Clock system](#)  
 - Embedded Clock system with alarm, stopwatch, countdown    
 
-### 📚 [Student adding system](#)  
+### 📚 [Student adding system](https://github.com/TheRealRoshdy/Add-student-program/tree/main)  
 - Student data entery system  
 
 ### 🏥 [Clinic managment system](#)  
