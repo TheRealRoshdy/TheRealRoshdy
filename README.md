@@ -6,8 +6,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Bachelor degree in Electronics & communication Engineering from MIU | graduation project: **Sea-eyes: Smart Collision Avoidance System for Ships**  
-- ☁️ Experienced with AI | IoT | Embedded Systems | Cloud integration   
+- 🎓 Bachelor degree in Electronics & communication Engineering from MIU  
+- 🎓 graduation project: Sea-eyes: Smart Collision Avoidance System for Ships    
+- 🛠️ Experienced with AI | IoT | Embedded Systems | Cloud integration   
 - 📍 Cairo, Egypt    
 
 ---
