@@ -26,7 +26,7 @@
 ### 🚢 [Sea-eyes: Smart Collision Avoidance system for sea vessels](https://github.com/TheRealRoshdy/Sea-eyes)  
 - Affordable Real-Time obstical detection for sea vessels  
 
-### ⏰ [Real Time Clock system](#)  
+### ⏰ [Real Time Clock system](https://github.com/TheRealRoshdy/Real-time-clock/tree/main)  
 - Embedded Clock system with alarm, stopwatch, countdown    
 
 ### 📚 [Student adding system](https://github.com/TheRealRoshdy/Add-student-program/tree/main)  
