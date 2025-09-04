@@ -32,7 +32,7 @@
 ### 📚 [Student adding system](https://github.com/TheRealRoshdy/Add-student-program/tree/main)  
 - Student data entery system  
 
-### 🏥 [Clinic managment system](#)  
+### 🏥 [Clinic managment system](https://github.com/TheRealRoshdy/Clinic-management-system.git)  
 - patient record and time slot booking system    
 
 ### 🦉 [Elevvo internship projects](https://github.com/TheRealRoshdy/Elevvo-Internship-projects/tree/main)    
